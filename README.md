@@ -55,6 +55,8 @@ Don't remove rows that have blank values for numStudents, only those that have n
 
 Before we move on, let's examine the range of values in the numStudents column.  
 
+70533
+
 **Q9:** *What is the maximum value in the numStudents column? Does this number make sense?*
 
 **Q10:** *What is the enrollment of the largest university in the world?*
