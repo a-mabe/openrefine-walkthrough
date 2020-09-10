@@ -49,6 +49,8 @@ We'll investigate this more later.
 
 Don't remove rows that have blank values for numStudents, only those that have non-numeric values.
 
+4678
+
 **Q8:** *After performing the cleaning specified and removing rows that have non-numeric values for numStudents, how many rows are left in the dataset?*
 
 Before we move on, let's examine the range of values in the numStudents column.  
