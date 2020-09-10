@@ -33,8 +33,7 @@ Using the "edit" option, fix any remaining country name issues you find.
 
 **Q4:** *What other countries did you edit using the text facet?*
 
-Canada, Curacao, Scotland, Russia, England
-Satelite locations:
+Canada, Curacao, Scotland, Russia, England, Satellite locations:
 
 **Q5:** *How many different country names are now listed?*
 
